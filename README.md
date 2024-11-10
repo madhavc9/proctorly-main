@@ -4,14 +4,11 @@
 ## Team Name
 **ProctorLy** 
 
-## Team Members
-- Aarushi Dua
-- Aaryan Arora 
-- Abhisht Dixit
-- Rishit Toteja 
+## Author
+- Madhav Choudhary
 
 ## Live Demo
-[Website](https://web.abhisht01.repl.co/)
+[Website](https://proctorly-web1.netlify.app)
 
 ## Introduction
 With the onset of COVID-19, students and teachers across the globe were forced to shift to online teaching. The lectures started being held over google meet or a zoom call, however, none of these software had a solution for proctoring online examinations. Human proctors were not able to check each student carefully, and thus it led to massive cheating and copying in online exams.
