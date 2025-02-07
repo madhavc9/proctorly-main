@@ -11,13 +11,6 @@
     <a href="https://proctorly-web1.netlify.app" target="_blank"><strong>Live Link »</strong></a>
   </p>
 </div>
----
-
-<details>
-  <summary><b>Live Demo</b></summary>
-  <br>
-  <p><a href="https://proctorly-web1.netlify.app">Website</a></p>
-</details>
 
 ---
 
