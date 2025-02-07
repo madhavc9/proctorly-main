@@ -29,31 +29,35 @@
 ---
 
 <details>
-  <summary><b>Technologies Used</b></summary>
-  **Integrated Development Environment (IDE):** Google Colab, Pycharm, Replit  
-  **Programming Languages:** Python, JavaScript, HTML, CSS, JSX  
+  <summary><strong>Technologies Used</strong></summary>
+  
+  **Integrated Development Environment (IDE):** Google Colab, PyCharm, Replit
+  
+  **Programming Languages:** Python, JavaScript, HTML, CSS, JSX
+  
   **Frameworks & Libraries:**
-  <br>
-  - TensorFlow  
-  - Keras  
-  - OpenCV  
-  - NumPy  
-  - Matplotlib  
-  - Speech Recognition  
-  - Scikit-Learn  
-  - ReactJS  
-  - TailwindCSS  
-  - Animate.css  
-  - Tachyons  
-  <br>
+  
+  - TensorFlow
+  - Keras
+  - OpenCV
+  - NumPy
+  - Matplotlib
+  - Speech Recognition
+  - Scikit-Learn
+  - ReactJS
+  - TailwindCSS
+  - Animate.css
+  - Tachyons
+  
   **Deep Learning Architectures Used:**
-  <br>
-  - Convolutional Neural Network  
-  - Recurrent Neural Network  
-  - YOLOv4 with Darknet  
-  - Gensim.models  
-  - Pyaudio  
-  - Dlib  
+  
+  - Convolutional Neural Network
+  - Recurrent Neural Network
+  - YOLOv4 with Darknet
+  - Gensim.models
+  - Pyaudio
+  - Dlib
+  
 </details>
 
 ---
