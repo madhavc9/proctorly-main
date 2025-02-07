@@ -1,14 +1,24 @@
-# ProctorLy
-*Changing the way teachers take examinations* 
+<details open>
+  <summary><h1>ProctorLy</h1></summary>
+  <p><em>Changing the way teachers take examinations</em></p>
+</details>
 
-## Team Name
-**ProctorLy** 
+<details>
+  <summary><b>Team Name</b></summary>
+  <p><strong>ProctorLy</strong></p>
+</details>
 
-## Author
-- Madhav Choudhary
+<details>
+  <summary><b>Author</b></summary>
+  <ul>
+    <li>Madhav Choudhary</li>
+  </ul>
+</details>
 
-## Live Demo
-[Website](https://proctorly-web1.netlify.app)
+<details>
+  <summary><b>Live Demo</b></summary>
+  <p><a href="https://proctorly-web1.netlify.app">Website</a></p>
+</details>
 
 <details>
   <summary><b>Introduction</b></summary>
@@ -66,7 +76,9 @@
 
 <details>
   <summary><b>Flowchart</b></summary>
-  ![Flowchart](/flowchart.JPG)
+  <p align="center">
+    <img src="flowchart.JPG" alt="Flowchart" width="600">
+  </p>
 </details>
 
 <details>
