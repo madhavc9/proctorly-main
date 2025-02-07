@@ -1,8 +1,16 @@
-<details open>
-  <summary><h1>ProctorLy</h1></summary>
-  <p><em>Changing the way teachers take examinations</em></p>
-</details>
-
+<div align="center">
+  <img src="/bg.png" alt="Proctorly Logo" width="600">
+  <h3 align="center">Proctorly</h3>
+  <p align="center">
+    Changing the way teachers take examinations.
+    <br />
+    <a href="https://drive.google.com/file/d/1qYvdLZSJQP73nDsnra9D96X2YBksIoWI/view?usp=sharing" target="_blank"><strong>Explore the documentation »</strong></a>
+    <br />
+    <a href="https://drive.google.com/file/d/1tP3LpOuq9oVjJ5IHTt3EekR550bA1q01/view?usp=sharing" target="_blank"><strong>Video Demonstration »</strong></a>
+    <br />
+    <a href="https://proctorly-web1.netlify.app" target="_blank"><strong>Live Link »</strong></a>
+  </p>
+</div>
 ---
 
 <details>
