@@ -3,10 +3,15 @@
   <p><em>Changing the way teachers take examinations</em></p>
 </details>
 
+---
+
 <details>
   <summary><b>Live Demo</b></summary>
+  <br>
   <p><a href="https://proctorly-web1.netlify.app">Website</a></p>
 </details>
+
+---
 
 <details>
   <summary><b>Introduction</b></summary>
@@ -20,15 +25,17 @@
   - Reduces misconduct and maintains academic integrity  
 </details>
 
+---
+
 <details>
   <summary><b>Technologies Used</b></summary>
+  <br>
 
   **Integrated Development Environment (IDE):** Google Colab, Pycharm, Replit  
-
+  <br><br>
   **Programming Languages:** Python, JavaScript, HTML, CSS, JSX  
-
-  **Frameworks & Libraries:** 
-  <br>
+  <br><br>
+  **Frameworks & Libraries:**  
   - TensorFlow  
   - Keras  
   - OpenCV  
@@ -40,9 +47,8 @@
   - TailwindCSS  
   - Animate.css  
   - Tachyons  
-
-  **Deep Learning Architectures Used:**
-  <br>
+  <br><br>
+  **Deep Learning Architectures Used:**  
   - Convolutional Neural Network  
   - Recurrent Neural Network  
   - YOLOv4 with Darknet  
@@ -51,10 +57,11 @@
   - Dlib  
 </details>
 
-<details>
-  <br>
-  <summary><b>Workflow</b></summary>
+---
 
+<details>
+  <summary><b>Workflow</b></summary>
+  <br>
   1. The teacher/university shares the exam link  
   2. Students log in to the website  
   3. ML models detect cheating attempts in real time  
@@ -66,6 +73,8 @@
   9. **Outcome:** No cheating, benefiting both students and teachers!  
 </details>
 
+---
+
 <details>
   <summary><b>Flowchart</b></summary>
   <br>
@@ -74,9 +83,11 @@
   </p>
 </details>
 
+---
+
 <details>
   <summary><b>Explanation of the Models</b></summary>
-  
+  <br>
   1. **Mouth Movement Tracking:** Detects if a student speaks during the exam.  
   2. **Person Counting:** Detects the number of individuals in the room.  
   3. **Malicious Object Detection:** Identifies cheating materials (books, phones, notes, etc.).  
@@ -86,18 +97,22 @@
   7. **Eye Tracking:** Monitors eye movements to detect suspicious behavior.  
 </details>
 
+---
+
 <details>
   <summary><b>Website Features</b></summary>
-
+  <br>
   - **Tab Switch Detection**  
   - **Copy-Paste Detection**  
   - **Warning System**  
   - **User-Friendly Interface**  
 </details>
 
+---
+
 <details>
   <summary><b>Special Features</b></summary>
-
+  <br>
   1. **Parallel Processing:** Multi-threaded models ensure low latency and high efficiency.  
   2. **Privacy-Focused:** No student data is stored; reports contain limited anonymized data.  
   3. **Zero Setup:** Students don’t need any additional hardware or software.  
@@ -105,18 +120,22 @@
   5. **Cost-Effective:** AI-based monitoring is cheaper than hiring human proctors.  
 </details>
 
+---
+
 <details>
   <summary><b>Why Our Solution is Better</b></summary>
-  
+  <br>
   1. **Higher Accuracy:** AI ensures each student is monitored at all times.  
   2. **Immediate Action:** Anomalies are reported in real-time.  
   3. **Remote Accessibility:** Can be deployed for online examinations easily.  
   4. **Privacy-Focused:** No recorded videos or images are stored, preventing misuse.  
 </details>
 
+---
+
 <details>
   <summary><b>Future Scope</b></summary>
-  
+  <br>
   1. Develop a full-fledged commercial product.  
   2. Enhance the accuracy of the headphone detection model.  
   3. Use improved datasets for better model performance.  
