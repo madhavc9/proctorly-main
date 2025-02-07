@@ -30,13 +30,10 @@
 
 <details>
   <summary><b>Technologies Used</b></summary>
-  <br>
-
   **Integrated Development Environment (IDE):** Google Colab, Pycharm, Replit  
-  <br><br>
   **Programming Languages:** Python, JavaScript, HTML, CSS, JSX  
-  <br><br>
-  **Frameworks & Libraries:**  
+  **Frameworks & Libraries:**
+  <br>
   - TensorFlow  
   - Keras  
   - OpenCV  
@@ -48,8 +45,9 @@
   - TailwindCSS  
   - Animate.css  
   - Tachyons  
-  <br><br>
-  **Deep Learning Architectures Used:**  
+  <br>
+  **Deep Learning Architectures Used:**
+  <br>
   - Convolutional Neural Network  
   - Recurrent Neural Network  
   - YOLOv4 with Darknet  
