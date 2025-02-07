@@ -4,18 +4,6 @@
 </details>
 
 <details>
-  <summary><b>Team Name</b></summary>
-  <p><strong>ProctorLy</strong></p>
-</details>
-
-<details>
-  <summary><b>Author</b></summary>
-  <ul>
-    <li>Madhav Choudhary</li>
-  </ul>
-</details>
-
-<details>
   <summary><b>Live Demo</b></summary>
   <p><a href="https://proctorly-web1.netlify.app">Website</a></p>
 </details>
