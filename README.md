@@ -88,7 +88,7 @@
 
 <details>
   <summary><b>Explanation of the Models</b></summary>
-
+  <br>
   1. **Mouth Movement Tracking:** Detects if a student speaks during the exam.  
   2. **Person Counting:** Detects the number of individuals in the room.  
   3. **Malicious Object Detection:** Identifies cheating materials (books, phones, notes, etc.).  
@@ -100,7 +100,7 @@
 
 <details>
   <summary><b>Website Features</b></summary>
-
+  <br>
   - **Tab Switch Detection**  
   - **Copy-Paste Detection**  
   - **Warning System**  
@@ -109,7 +109,7 @@
 
 <details>
   <summary><b>Special Features</b></summary>
-
+  <br>
   1. **Parallel Processing:** Multi-threaded models ensure low latency and high efficiency.  
   2. **Privacy-Focused:** No student data is stored; reports contain limited anonymized data.  
   3. **Zero Setup:** Students don’t need any additional hardware or software.  
@@ -119,7 +119,7 @@
 
 <details>
   <summary><b>Why Our Solution is Better</b></summary>
-
+  <br>
   1. **Higher Accuracy:** AI ensures each student is monitored at all times.  
   2. **Immediate Action:** Anomalies are reported in real-time.  
   3. **Remote Accessibility:** Can be deployed for online examinations easily.  
@@ -128,7 +128,7 @@
 
 <details>
   <summary><b>Future Scope</b></summary>
-
+  <br>
   1. Develop a full-fledged commercial product.  
   2. Enhance the accuracy of the headphone detection model.  
   3. Use improved datasets for better model performance.  
