@@ -22,6 +22,7 @@
 
 <details>
   <summary><b>Introduction</b></summary>
+  <br>
   With the onset of COVID-19, students and teachers across the globe were forced to shift to online teaching. The lectures started being held over Google Meet or Zoom, but none of these platforms had a solution for proctoring online examinations.  
   Human proctors were unable to monitor each student carefully, leading to massive cheating and misconduct in exams.  
 
@@ -33,12 +34,13 @@
 
 <details>
   <summary><b>Technologies Used</b></summary>
-
+  <br>
   **Integrated Development Environment (IDE):** Google Colab, Pycharm, Replit  
 
   **Programming Languages:** Python, JavaScript, HTML, CSS, JSX  
 
-  **Frameworks & Libraries:**  
+  **Frameworks & Libraries:** 
+  <br>
   - TensorFlow  
   - Keras  
   - OpenCV  
@@ -51,7 +53,8 @@
   - Animate.css  
   - Tachyons  
 
-  **Deep Learning Architectures Used:**  
+  **Deep Learning Architectures Used:**
+  <br>
   - Convolutional Neural Network  
   - Recurrent Neural Network  
   - YOLOv4 with Darknet  
@@ -61,6 +64,7 @@
 </details>
 
 <details>
+  <br>
   <summary><b>Workflow</b></summary>
 
   1. The teacher/university shares the exam link  
@@ -76,6 +80,7 @@
 
 <details>
   <summary><b>Flowchart</b></summary>
+  <br>
   <p align="center">
     <img src="flowchart.JPG" alt="Flowchart" width="600">
   </p>
