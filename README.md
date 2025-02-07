@@ -11,7 +11,7 @@
 [Website](https://proctorly-web1.netlify.app)
 
 <details>
-  <summary><h2>Introduction</h2></summary>
+  <summary><b>Introduction</b></summary>
   With the onset of COVID-19, students and teachers across the globe were forced to shift to online teaching. The lectures started being held over Google Meet or Zoom, but none of these platforms had a solution for proctoring online examinations.  
   Human proctors were unable to monitor each student carefully, leading to massive cheating and misconduct in exams.  
 
@@ -22,7 +22,7 @@
 </details>
 
 <details>
-  <summary><h2>Technologies Used</h2></summary>
+  <summary><b>Technologies Used</b></summary>
 
   **Integrated Development Environment (IDE):** Google Colab, Pycharm, Replit  
 
@@ -51,7 +51,7 @@
 </details>
 
 <details>
-  <summary><h2>Workflow</h2></summary>
+  <summary><b>Workflow</b></summary>
 
   1. The teacher/university shares the exam link  
   2. Students log in to the website  
@@ -65,12 +65,12 @@
 </details>
 
 <details>
-  <summary><h2>Flowchart</h2></summary>
+  <summary><b>Flowchart</b></summary>
   ![Flowchart](/flowchart.JPG)
 </details>
 
 <details>
-  <summary><h2>Explanation of the Models</h2></summary>
+  <summary><b>Explanation of the Models</b></summary>
 
   1. **Mouth Movement Tracking:** Detects if a student speaks during the exam.  
   2. **Person Counting:** Detects the number of individuals in the room.  
@@ -82,7 +82,7 @@
 </details>
 
 <details>
-  <summary><h2>Website Features</h2></summary>
+  <summary><b>Website Features</b></summary>
 
   - **Tab Switch Detection**  
   - **Copy-Paste Detection**  
@@ -91,7 +91,7 @@
 </details>
 
 <details>
-  <summary><h2>Special Features</h2></summary>
+  <summary><b>Special Features</b></summary>
 
   1. **Parallel Processing:** Multi-threaded models ensure low latency and high efficiency.  
   2. **Privacy-Focused:** No student data is stored; reports contain limited anonymized data.  
@@ -101,7 +101,7 @@
 </details>
 
 <details>
-  <summary><h2>Why Our Solution is Better</h2></summary>
+  <summary><b>Why Our Solution is Better</b></summary>
 
   1. **Higher Accuracy:** AI ensures each student is monitored at all times.  
   2. **Immediate Action:** Anomalies are reported in real-time.  
@@ -110,7 +110,7 @@
 </details>
 
 <details>
-  <summary><h2>Future Scope</h2></summary>
+  <summary><b>Future Scope</b></summary>
 
   1. Develop a full-fledged commercial product.  
   2. Enhance the accuracy of the headphone detection model.  
