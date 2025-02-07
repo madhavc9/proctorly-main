@@ -127,8 +127,7 @@
 </details>
 
 <details>
-  <summary><b>Future Scope</b></summary>
-  <br>
+  <summary><b>Future Scope</b></summary> <br>
   1. Develop a full-fledged commercial product.  
   2. Enhance the accuracy of the headphone detection model.  
   3. Use improved datasets for better model performance.  
