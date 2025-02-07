@@ -143,3 +143,9 @@
   4. Optimize model efficiency with better algorithms.  
   5. Create an end-to-end proctoring solution for universities.  
 </details>
+
+---
+<!-- FOOTER -->
+<div align="center">
+  💙 If you like this project, give it a ⭐! In case of any bugs or feedback, feel free to contact me.
+</div>
