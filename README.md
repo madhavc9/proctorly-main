@@ -30,8 +30,7 @@
 
 <details>
   <summary><strong>Technologies Used</strong></summary>
-  
-  
+  <br>
   **Integrated Development Environment (IDE):** Google Colab, PyCharm, Replit
   
   **Programming Languages:** Python, JavaScript, HTML, CSS, JSX
