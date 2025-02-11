@@ -3,8 +3,8 @@
   <h3 align="center">Proctorly</h3>
   <p align="center">
     Changing the way teachers take examinations.<br>
-    <a href="https://drive.google.com/file/d/1qYvdLZSJQP73nDsnra9D96X2YBksIoWI/view?usp=sharing" target="_blank"><strong>Explore the documentation »</strong></a><br>
-    <a href="https://drive.google.com/file/d/1tP3LpOuq9oVjJ5IHTt3EekR550bA1q01/view?usp=sharing" target="_blank"><strong>Video Demonstration »</strong></a><br>
+    <a href="https://drive.google.com/file/d/1puIcRyWItdE2-pTWHhgJz0qi02GhnM7B/view?usp=sharing" target="_blank"><strong>Explore the documentation »</strong></a><br>
+    <a href="https://drive.google.com/file/d/1NHX17gKy4-LE6jCwOkYACrjM3rxl5sKI/view?usp=sharing" target="_blank"><strong>Video Demonstration »</strong></a><br>
     <a href="https://proctorly-web1.netlify.app" target="_blank"><strong>Live Link »</strong></a>
   </p>
 </div>
